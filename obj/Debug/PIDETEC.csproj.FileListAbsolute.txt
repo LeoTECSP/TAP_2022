@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\PIDETEC\bin\Debug\PIDETEC.exe.config
+C:\Users\Dell\source\repos\PIDETEC\bin\Debug\PIDETEC.exe
+C:\Users\Dell\source\repos\PIDETEC\bin\Debug\PIDETEC.pdb
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.FrmAcceder.resources
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.Properties.Resources.resources
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.exe
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.pdb
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.MenuOpciones.resources
+C:\Users\Dell\source\repos\PIDETEC\obj\Debug\PIDETEC.Opciones.resources
